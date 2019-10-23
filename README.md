@@ -1,5 +1,14 @@
 ## This is a sample app that allows you to spoof GPS location
 
+### Requirements:
+
+- Mac OS
+- Xcode
+
+### How to run apps in your device:
+
+https://www.twilio.com/blog/2018/07/how-to-test-your-ios-application-on-a-real-device.html
+
 ### How to use:
 
 1. Download the project in your machine
