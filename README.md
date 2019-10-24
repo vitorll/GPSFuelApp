@@ -3,7 +3,7 @@
 ### Requirements:
 
 - Mac OS
-- Xcode
+- Xcode (https://apps.apple.com/au/app/xcode/id497799835?mt=12)
 
 ### How to run apps in your device:
 
@@ -12,12 +12,13 @@ https://www.twilio.com/blog/2018/07/how-to-test-your-ios-application-on-a-real-d
 ### How to use:
 
 1. Download the project in your machine
-2. Download Xcode from AppStore
-3. Opem the project
-4. Select GPSLocation.gpx file (https://github.com/vitorll/GPSFuelApp/blob/master/GPSFuelApp/GPSLocation.gpx)	
+2. Open the project
+3. Select GPSLocation.gpx file (https://github.com/vitorll/GPSFuelApp/blob/master/GPSFuelApp/GPSLocation.gpx)	
 	- ![location_file_image](GPSFuelApp/location_file_image.png)
-5. Enter the desired GPS coordinates
-6. Select your device as target
+4. Enter the desired GPS coordinates
+5. Select your device as target
+6. Change the bundle identifier for the project (needs to be unique eg. com.yourcoolname.GPSFuelApp)
+	- ![bundle_identifier](GPSFuelApp/bundle_identifier.png)
 7. Run the project
 8. Enable location simulation	
 	- ![location_feature_image](GPSFuelApp/location_feature_image.png)
