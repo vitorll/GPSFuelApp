@@ -9,7 +9,7 @@
 
 https://www.twilio.com/blog/2018/07/how-to-test-your-ios-application-on-a-real-device.html
 
-### How to use:
+### First time use:
 
 1. Download the project in your machine
 2. Open the project
@@ -28,3 +28,14 @@ Now your iPhone will use the same location as defined in the GPSLocation.gpx fil
 You can now change to any maps app to check out if it's working
 
 That's it
+
+### Day to day use:
+
+1. Open the project
+2. Select GPSLocation.gpx file (https://github.com/vitorll/GPSFuelApp/blob/master/GPSFuelApp/GPSLocation.gpx)	
+	- ![location_file_image](GPSFuelApp/location_file_image.png)
+3. Enter the desired GPS coordinates
+4. Select your device as target
+5. Run the project
+6. Enable location simulation	
+	- ![location_feature_image](GPSFuelApp/location_feature_image.png)
