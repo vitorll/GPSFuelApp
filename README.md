@@ -1,15 +1,21 @@
-## This is a sample app that allows you to spoof GPS location
+# This is a sample app that allows you to spoof GPS location
 
-### Requirements:
+## <a name="contents"></a>Contents
+
+- [Requirements](#requirements)
+- [First Time Setup](#first_time_setup)
+- [Day To Day Usage](#day_to_day_usage)
+
+## <a name="requirements"></a>Requirements
+<sup>[top](#contents)</sup>
 
 - Mac OS
+- iPhone
 - Xcode (https://apps.apple.com/au/app/xcode/id497799835?mt=12)
+- Setup your machine and iPhone for development (https://www.twilio.com/blog/2018/07/how-to-test-your-ios-application-on-a-real-device.html)
 
-### How to run apps in your device:
-
-https://www.twilio.com/blog/2018/07/how-to-test-your-ios-application-on-a-real-device.html
-
-### First time use:
+## <a name="first_time_setup"></a>First Time Setup
+<sup>[top](#contents)</sup>
 
 1. Download the project to your machine
 	- ![download_project](GPSFuelApp/ReadMe_Images/download_project.png)
@@ -38,7 +44,8 @@ You can now change to any maps app to check out if it's working
 
 That's it
 
-### Day to day use:
+## <a name="day_to_day_usage"></a>Day To Day Usage
+<sup>[top](#contents)</sup>
 
 1. Open the project
 2. Select GPSLocation.gpx file (https://github.com/vitorll/GPSFuelApp/blob/master/GPSFuelApp/GPSLocation.gpx)	
