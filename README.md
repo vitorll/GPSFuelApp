@@ -11,8 +11,9 @@ https://www.twilio.com/blog/2018/07/how-to-test-your-ios-application-on-a-real-d
 
 ### First time use:
 
-1. Download the project in your machine
-2. Open the project
+1. Download the project to your machine
+	- ![download_project](GPSFuelApp/ReadMe_Images/download_project.png)
+2. Open the project file (GPSFuelApp.xcodeproj)
 3. Select GPSLocation.gpx file (https://github.com/vitorll/GPSFuelApp/blob/master/GPSFuelApp/GPSLocation.gpx)	
 	- ![location_file_image](GPSFuelApp/ReadMe_Images/location_file_image.png)
 4. Enter the desired GPS coordinates
